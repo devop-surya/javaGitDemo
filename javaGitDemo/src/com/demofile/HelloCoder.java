@@ -6,6 +6,4 @@ public class HelloCoder {
 		HelloCoder obj = new HelloCoder();
 		System.out.println("Hello Developer...\nThis is Surya webPage "+obj.name);
 		sysout("Thanks for visit our site");
-	}
-
 }
